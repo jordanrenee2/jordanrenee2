@@ -4,6 +4,8 @@ I’m a data coordinator and business analytics graduate student with hands-on e
 
 I’ve worked and lived across U.S. and APAC time zones, coordinated data and schedules for multiple stakeholders, and completed real-world academic projects involving cybersecurity audits, risk assessment, and applied analytics. I enjoy turning messy data into clear insights and building practical solutions that support decision-making.
 
+I’m also passionate about web design and have experience building interactive web pages using HTML, CSS, and JavaScript.
+
 Currently, I’m focused on strengthening my analytics portfolio, deepening my technical skills, and exploring remote or internationally oriented roles where data, business strategy, and technology overlap.
 
 **Interests**
@@ -14,7 +16,7 @@ Currently, I’m focused on strengthening my analytics portfolio, deepening my t
 
 **Tools**
 
-Python, R, SQL, Git, GitHub, Excel, data visualization libraries
+Python, R, SQL, HTML, CSS, JavaScript, Git, GitHub, Excel, data visualization libraries
 
 
 <!--
