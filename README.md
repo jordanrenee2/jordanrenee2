@@ -1,4 +1,4 @@
-## Hi, I’m Jordan
+## Hi, I’m Jordan!
 
 I’m a data coordinator and business analytics graduate student with hands-on experience in data coordination, analytics, and cybersecurity-focused projects. My work sits at the intersection of data analysis, operations, and secure information handling, with a strong interest in remote and globally distributed teams.
 
@@ -13,6 +13,7 @@ Currently, I’m focused on strengthening my analytics portfolio, deepening my t
 - Remote-first and global work environments
 
 **Tools**
+
 Python, R, SQL, Git, GitHub, Excel, data visualization libraries
 
 
