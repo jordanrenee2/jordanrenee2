@@ -7,7 +7,7 @@ I’ve worked across U.S. and APAC time zones, coordinating data and schedules f
 Recently, I’ve applied these skills through hands-on projects:
 
 - **Big Data Scheduling Project:** Designed and implemented a data-driven scheduling solution that optimized resource allocation across multiple constraints. Used Python and data analysis techniques to clean, structure, and model scheduling data, improving efficiency and visibility into operational trade-offs.  
-- **Cybersecurity Capstone Project:** Conducted a comprehensive security assessment, including risk analysis, vulnerability identification, and recommendations aligned with industry best practices. Translated technical findings into clear, business-focused insights for stakeholders.
+- **Cybersecurity Vulnerability Assessment:** Conducted a comprehensive security assessment, including risk analysis, vulnerability identification, and recommendations aligned with industry best practices. Translated technical findings into clear, business-focused insights for stakeholders.
 
 In addition to data work, I have experience building interactive web pages using HTML, CSS, and JavaScript, and I’m interested in how front-end design can complement data storytelling.
 
