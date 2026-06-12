@@ -1,6 +1,6 @@
 ## Hi, I’m Jordan!
 
-I’m a data coordinator and graduate student with experience in analytics, data operations, and cybersecurity-focused work. My interests sit at the intersection of data analysis, business operations, and secure information handling—especially in remote and globally distributed environments.
+I’m a data coordinator and graduate student with experience in analytics, data operations, and cybersecurity-focused work. My interests sit at the intersection of data analysis, business operations, and secure information handling—especially in international and globally distributed environments.
 
 I’ve worked across U.S. and APAC time zones, coordinating data and schedules for multiple stakeholders while maintaining accuracy and consistency in reporting. I enjoy transforming complex, messy datasets into clear, actionable insights that support decision-making.
 
